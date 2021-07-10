@@ -1,0 +1,435 @@
+# Translation of Plugins - OneClick Chat to Order - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - OneClick Chat to Order - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-12 09:17:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - OneClick Chat to Order - Stable (latest release)\n"
+
+#: admin/wa-admin-page.php:507 admin/wa-admin-page.php:580
+msgid "Created with ❤ and ☕ in Central Jakarta, Indonesia by <a href=\"https://walterpinem.me\" target=\"_blank\"><strong>Walter Pinem</strong></a>"
+msgstr "Creado con ❤ y ☕ en Jakarta Central, Indonesia por <a href=\"https://walterpinem.me\" target=\"_blank\"><strong>Walter Pinem</strong></a>"
+
+#: admin/wa-admin-page.php:503
+msgid "Donate"
+msgstr "Donar"
+
+#: admin/wa-admin-page.php:499
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: admin/wa-admin-page.php:495
+msgid "Other Projects"
+msgstr "Otros proyectos"
+
+#: admin/wa-admin-page.php:490
+msgid "Support Page"
+msgstr "Página de soporte"
+
+#: admin/wa-admin-page.php:488
+msgid "More:"
+msgstr "Más:"
+
+#: admin/wa-admin-page.php:485
+msgid "hello@walterpinem.me"
+msgstr "hello@walterpinem.me"
+
+#: admin/wa-admin-page.php:483
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: admin/wa-admin-page.php:479
+msgid "www.dequixote.com"
+msgstr "www.dequixote.com"
+
+#: admin/wa-admin-page.php:475
+msgid "www.seniberpikir.com"
+msgstr "www.seniberpikir.com"
+
+#: admin/wa-admin-page.php:470
+msgid "walterpinem.me"
+msgstr "walterpinem.me"
+
+#: admin/wa-admin-page.php:468
+msgid "Website:"
+msgstr "Web:"
+
+#: admin/wa-admin-page.php:462
+msgid "Author:"
+msgstr "Autor:"
+
+#: admin/wa-admin-page.php:353
+msgid "This will hide product quantity option field."
+msgstr "Esto ocultará el campo de opción de cantidad de producto."
+
+#: admin/wa-admin-page.php:349
+msgid "Hide Product Quantity Option?"
+msgstr "¿Ocultar la opción de cantidad de producto?"
+
+#: admin/wa-admin-page.php:225
+msgid "Yes, exclude price in WhatsApp message."
+msgstr "Si, excluir el precio en el mensaje de WhatsApp."
+
+#: admin/wa-admin-page.php:221
+msgid "Exclude Price?"
+msgstr "¿Excluir el precio?"
+
+#: admin/wa-admin-page.php:218
+msgid "The following option is only for the output message you'll receieve on WhatsApp. To hide some elements, please go to <a href=\"admin.php?page=whatsapp-order&tab=display_option\"><strong>Display Options</strong></a> tab."
+msgstr "La siguiente opción es solo para el mensaje de salida que recibirás en WhatsApp. Para ocultar algunos elementos, por favor, ve a la pestaña <a href=\"admin.php?page=whatsapp-order&tab=display_option\"><strong>Mostrar las opciones</strong></a>."
+
+#: admin/wa-admin-page.php:217
+msgid "Exclusion"
+msgstr "Exclusión"
+
+#: includes/whatsapp-button.php:214
+msgid "<p><strong>WhatsApp Order</strong> requires <strong> WhatsApp Number!</strong> <a href=\"?page=whatsapp-order&tab=button_config\"><strong>Click here</strong></a> to fill it.</p>"
+msgstr "<p>¡<strong>WhatsApp Order</strong> necesita un <strong> número de WhatsApp!</strong> <a href=\"?page=whatsapp-order&tab=button_config\"><strong>Haz clic aquí</strong></a> para introducirlo.</p>"
+
+#: admin/wa-admin-page.php:576
+msgid "You will not be left alone. Our complete documentation or tutorial will always help and support all your needs to get started."
+msgstr "No te quedarás solo. Nuestra completa documentación o tutoriales siempre te ayudarán y resolverán todas tus necesidades para comenzar."
+
+#: admin/wa-admin-page.php:575
+msgid "Comprehensive Documentation"
+msgstr "Completa documentación"
+
+#: admin/wa-admin-page.php:570
+msgid "Are the previous options still not enough for you? You can extend the flexibility to display a WhatsApp button using a shortcode, which you can generate easily."
+msgstr "¿Las opciones anteriores no son suficientes para ti? Puedes ampliar la flexibilidad para mostrar un botón de WhatsApp utilizando un shortcode, que puedes generar fácilmente."
+
+#: admin/wa-admin-page.php:569
+msgid "Shortcode Generator"
+msgstr "Generador de shortcode"
+
+#: admin/wa-admin-page.php:562
+msgid "The regulations are real and it's time to make your site ready for them. Make your site GDPR-ready with some simple configurations, really easy!"
+msgstr "Las normas son reales y es hora de preparar tu sitio para ellas. Haz que tu sitio esté preparado para el RGPD con algunas sencillas configuraciones, ¡realmente fácil!"
+
+#: admin/wa-admin-page.php:561
+msgid "Make Yours GDPR-Ready"
+msgstr "Prepara tu RGPD"
+
+#: admin/wa-admin-page.php:556
+msgid "Wanna hide some buttons or elements you don't like? You have the command to rule them all. Just visit the panel and all of the options are there to configure."
+msgstr "¿Quieres ocultar algunos botones o elementos que no te gustan? Tienes el dominio para controlarlos todos. Simplemente visita el panel y todas las opciones están ahí para configurarlas."
+
+#: admin/wa-admin-page.php:555
+msgid "Display This or Hide That"
+msgstr "Mostrar esto u ocultar eso"
+
+#: admin/wa-admin-page.php:548
+msgid "Make it easy for any customers/visitors to reach you out through a click of a floating WhatsApp button, displayed on the left of right with tons of customization options."
+msgstr "Haz que sea fácil para cualquier cliente/visitante comunicarse contigo haciendo clic en un botón flotante de WhatsApp, que se muestra a la izquierda o derecha con toneladas de opciones de personalización."
+
+#: admin/wa-admin-page.php:547
+msgid "Fancy Floating Button"
+msgstr "Botón flotante elegante"
+
+#: admin/wa-admin-page.php:543
+msgid "Replace the default Add to Cart button or simply show both. Once the WhatsApp Order button is clicked, the message along with the product details are sent to you through WhatsApp."
+msgstr "Reemplaza el botón por defecto de «Añadir al carrito» o simplemente muestra ambos. Una vez que se hace clic en el botón de WhatsApp Order, se te envía el mensaje junto con los detalles del producto a través de WhatsApp."
+
+#: admin/wa-admin-page.php:542
+msgid "Simple WhatsApp Button"
+msgstr "Botón simple de WhatsApp"
+
+#: admin/wa-admin-page.php:534
+msgid "<strong>Have an inquiry?</strong> Find out how to reach me out on <a href=\"admin.php?page=whatsapp-order&tab=tutorial_support\"><strong>Support</strong></a> panel."
+msgstr "<strong>¿Tienes una consulta?</strong> Descubre cómo contactar conmigo en el panel de <a href=\"admin.php?page=whatsapp-order&tab=tutorial_support\"><strong>soporte</strong></a>."
+
+#: admin/wa-admin-page.php:534
+msgid "Step #6:"
+msgstr "Paso #6:"
+
+#: admin/wa-admin-page.php:533
+msgid "Display WhatsApp Button anywhere you like with a <strong>single shortcode</strong>. You can generate it with a customized message and a nice text on button on <a href=\"admin.php?page=whatsapp-order&tab=generate_shortcode\"><strong>Generate Shortcode</strong></a> setting panel."
+msgstr "Muestra el botón de WhatsApp donde quieras con un <strong>shortcode individual</strong>. Puedes generarlo con un mensaje personalizado y un bonito texto en el botón en panel de ajustes <a href=\"admin.php?page=whatsapp-order&tab=generate_shortcode\"><strong>Generar shortcode</strong></a>."
+
+#: admin/wa-admin-page.php:533
+msgid "Step #5:"
+msgstr "Paso #5:"
+
+#: admin/wa-admin-page.php:532
+msgid "Make your online store GDPR-ready by showing <strong>GDPR Notice</strong> right under the WhatsApp Order button on <a href=\"admin.php?page=whatsapp-order&tab=gdpr_notice\"><strong>GDPR Notice</strong></a> setting panel."
+msgstr "Haz que tu tienda online esté preparada para el RGPD mostrando el <strong>aviso RGPD</strong> justo debajo del botón de pedido de WhatsApp en el panel de ajustes <a href=\"admin.php?page=whatsapp-order&tab=gdpr_notice\"><strong>Aviso RGPD</strong></a>."
+
+#: admin/wa-admin-page.php:532
+msgid "Step #4:"
+msgstr "Paso #4:"
+
+#: admin/wa-admin-page.php:531
+msgid "Configure some options to <strong>display or hide buttons</strong>, including the WhatsApp button on <a href=\"admin.php?page=whatsapp-order&tab=display_option\"><strong>Display Options</strong></a> setting panel."
+msgstr "Configura algunas opciones para <strong>mostrar u ocultar botones</strong>, incluyendo el botón de WhatsApp en el panel de ajustes <a href=\"admin.php?page=whatsapp-order&tab=display_option\"><strong>Mostrar las opciones</strong></a>."
+
+#: admin/wa-admin-page.php:531
+msgid "Step #3:"
+msgstr "Paso #3:"
+
+#: admin/wa-admin-page.php:530
+msgid "Show a fancy<strong> Floating Button</strong> with customized message and tooltip which you can customize easily on <a href=\"admin.php?page=whatsapp-order&tab=floating_button\"><strong>Floating Button</strong></a> setting panel."
+msgstr "Muestra un elegante <strong>botón flotante</strong> con un mensaje personalizado y una información emergente que puedes personalizar fácilmente en el panel de ajustes <a href=\"admin.php?page=whatsapp-order&tab=floating_button\"><strong>Botón flotante</strong></a>."
+
+#: admin/wa-admin-page.php:530
+msgid "Step #2:"
+msgstr "Paso #2:"
+
+#: admin/wa-admin-page.php:529
+msgid "Start adding your <strong>WhatsApp number</strong> including custom message and button text on <a href=\"admin.php?page=whatsapp-order&tab=button_config\"><strong>Button Configurations</strong></a> setting panel."
+msgstr "Empieza añadiendo tu <strong>número de WhatsApp</strong>, incluyendo mensaje personalizado y el texto de botón en el panel de ajustes <a href=\"admin.php?page=whatsapp-order&tab=button_config\"><strong>Configuraciones del botón</strong></a>."
+
+#: admin/wa-admin-page.php:529
+msgid "Step #1:"
+msgstr "Paso #1:"
+
+#: admin/wa-admin-page.php:527
+msgid "Let's Get Started"
+msgstr "Empecemos"
+
+#: admin/wa-admin-page.php:523
+msgid "<strong>OneClick WhatsApp Order</strong> will make it easier for your customers to order your products directly through WhatsApp with a single click on a single product page or a floating button. Make them well-engaged and fasten the purchase process."
+msgstr "<strong>OneClick WhatsApp Order</strong> facilitará a tus clientes pedir tus productos directamente a través de WhatsApp con un solo clic en la página individual de producto o a través de un botón flotante. Haz que se involucren y acelera el proceso de compra."
+
+#: admin/wa-admin-page.php:520
+msgid "Make It Easy for Customers to Reach You!"
+msgstr "¡Haz que tus clientes contacten contigo fácilmente!"
+
+#: admin/wa-admin-page.php:515
+msgid "Thank you for using <br>OneClick WhatsApp Order"
+msgstr "Gracias por usar <br>OneClick WhatsApp Order"
+
+#: admin/wa-admin-page.php:452
+msgid "<strong>OneClick WhatsApp Order</strong> is my second plugin and it's open source. I acknowledge that there are still a lot to fix, here and there, that's why I really need your feedback. <br>Let's get in touch and show some love by <a href=\"https://wordpress.org/support/plugin/oneclick-whatsapp-order/reviews/?rate=5#new-post\" target=\"_blank\"><strong>leaving a review</strong></a>."
+msgstr "<strong>OneClick WhatsApp Order</strong> es mi segundo plugin y es de código abierto. Reconozco que todavía hay varias cosas que corregir, aquí y allá, por eso necesito tus comentarios. <br>Ponte en contacto y muestra tu aprecio <a href=\"https://wordpress.org/support/plugin/oneclick-whatsapp-order/reviews/?rate=5#new-post\" target=\"_blank\"><strong>dejando una valoración</strong></a>."
+
+#: admin/wa-admin-page.php:449
+msgid "<strong>OneClick WhatsApp Order</strong> is Waiting for a Feedback"
+msgstr "<strong>OneClick WhatsApp Order</strong> está esperando tus comentarios"
+
+#: admin/wa-admin-page.php:425
+msgid "Privacy Policy Page"
+msgstr "Página de la política de privacidad"
+
+#: admin/wa-admin-page.php:418
+msgid "Use %s to display Privacy Policy page link."
+msgstr "Usa %s para mostrar el enlace a la página de la política de privacidad."
+
+#: admin/wa-admin-page.php:416
+msgid "e.g. I have read the [gdpr_link]"
+msgstr "ej. He leído la [gdpr_link]"
+
+#: admin/wa-admin-page.php:412
+msgid "GDPR Message"
+msgstr "Mensaje RGPD"
+
+#: admin/wa-admin-page.php:405
+msgid "Check to Enable GDPR Notice."
+msgstr "Márcalo para activar el aviso del RGPD."
+
+#: admin/wa-admin-page.php:400
+msgid "Enable GDPR Notice"
+msgstr "Activar el aviso del RGPD"
+
+#: admin/wa-admin-page.php:391
+msgid "You can enable or disable the GDPR notice to make your site more GDPR compliant. <br>The GDPR notice you configure below will be displayed right under the WhatsApp Order button."
+msgstr "Puedes activar o desactivar el aviso del RGPD para hacer que tu sitio cumpla con el RGPD.<br>El aviso del RGPD que configures a continuación se mostrará justo debajo del botón de pedir por WhatsApp."
+
+#: admin/wa-admin-page.php:374
+msgid "This will hide Add to Cart button."
+msgstr "Esto ocultará el botón «Añadir al carrito»."
+
+#: admin/wa-admin-page.php:370
+msgid "Hide Add to Cart button?"
+msgstr "¿Ocultar el botón «Añadir al carrito»?"
+
+#: admin/wa-admin-page.php:364
+msgid "This will hide price in Product page."
+msgstr "Esto ocultará el precio en la página del producto."
+
+#: admin/wa-admin-page.php:360
+msgid "Hide Price in Product Page?"
+msgstr "¿Ocultar el precio en la página del producto?"
+
+#: admin/wa-admin-page.php:342
+msgid "This will hide WhatsApp Button on Desktop."
+msgstr "Esto ocultará el botón de WhatsApp en equipos de escritorio."
+
+#: admin/wa-admin-page.php:338
+msgid "Show WhatsApp Button Only on Mobile?"
+msgstr "¿Mostrar el botón de WhatsApp solo en móviles?"
+
+#: admin/wa-admin-page.php:308
+msgid "This will hide Floating Button on Mobile."
+msgstr "Esto ocultará el botón flotante en móviles."
+
+#: admin/wa-admin-page.php:304
+msgid "Hide Floating Button on Mobile?"
+msgstr "¿Ocultar el botón flotante en móviles?"
+
+#: admin/wa-admin-page.php:298
+msgid "Use this to greet your customers. The tooltip container size is very <br>limited so make sure to make it as short as possible."
+msgstr "Usa esto para saludar a tus clientes. El tamaño del contenedor de la información emergente es muy <br>limitado, así que asegúrate de hacerlo lo más breve posible."
+
+#: admin/wa-admin-page.php:296
+msgid "e.g. Let's Chat"
+msgstr "ej. Vamos a chatear"
+
+#: admin/wa-admin-page.php:293
+msgid "Button Tooltip"
+msgstr "Información emergente del botón"
+
+#: admin/wa-admin-page.php:286
+msgid "This will show a custom tooltip"
+msgstr "Esto mostrará una información emergente personalizada"
+
+#: admin/wa-admin-page.php:282
+msgid "Display Tooltip?"
+msgstr "¿Mostrar la información emergente?"
+
+#: admin/wa-admin-page.php:266
+msgid "Right"
+msgstr "Derecha"
+
+#: admin/wa-admin-page.php:264
+msgid "Left"
+msgstr "Izquierda"
+
+#: admin/wa-admin-page.php:259
+msgid "Floating Button Position"
+msgstr "Posición del botón flotante"
+
+#: admin/wa-admin-page.php:253
+msgid "This will show floating WhatsApp Button"
+msgstr "Esto mostrará un botón flotante de WhatsApp"
+
+#: admin/wa-admin-page.php:249
+msgid "Display Floating Button?"
+msgstr "¿Mostrar el botón flotante?"
+
+#: admin/wa-admin-page.php:242
+msgid "Enable / disable a floating WhatsApp button on your entire pages. You can configure the floating button below."
+msgstr "Activa / Desactiva un botón flotante de WhatsApp en todas las páginas. Puedes configurar el botón flotante a continuación."
+
+#: admin/wa-admin-page.php:209 admin/wa-admin-page.php:319
+msgid "Yes, Open in New Tab"
+msgstr "Si, abrir en una nueva pestaña"
+
+#: admin/wa-admin-page.php:205 admin/wa-admin-page.php:315
+msgid "Open in New Tab?"
+msgstr "¿Abrir en una nueva pestaña?"
+
+#: admin/wa-admin-page.php:189
+msgid "Fill this form with custom message, e.g. <code>Hello, I want to buy:</code>"
+msgstr "Rellena este formulario con un mensaje personalizado, ej. <code>Hola, quiero comprar:</code>"
+
+#: admin/wa-admin-page.php:187
+msgid "e.g. Hello, I want to buy:"
+msgstr "ej. Hola, me gustaría comprar:"
+
+#: admin/wa-admin-page.php:178
+msgid "Enter number including country code, e.g. <code><b>62</b>81234567890</code>"
+msgstr "Introduce el número incluyendo el código de país, ej: <code><b>34</b>81234567890</code>"
+
+#: admin/wa-admin-page.php:176
+msgid "e.g. 6281234567890"
+msgstr "ej. 3481234567890"
+
+#: admin/wa-admin-page.php:173
+msgid "WhatsApp Number"
+msgstr "Número de WhatsApp"
+
+#: admin/wa-admin-page.php:166
+msgid "Below configurations are <strong style=\"color:red;\">required</strong>. Please complete this section first."
+msgstr "Las siguientes configuraciones son <strong style=\"color:red;\">obligatorias</strong>. Por favor, completa primero esta sección."
+
+#: admin/wa-admin-page.php:144
+msgid "Copy Shortcode"
+msgstr "Copiar el shortcode"
+
+#: admin/wa-admin-page.php:140 admin/wa-admin-page.php:276
+msgid "Enter custom message, e.g. <code>Hello, I need to know more about</code>"
+msgstr "Introduce un mensaje personalizado, ej. <code>Hola, necesito saber más sobre</code>"
+
+#: admin/wa-admin-page.php:138 admin/wa-admin-page.php:274
+msgid "e.g. Hello, I need to know more about"
+msgstr "ej. Hola, necesito saber más sobre"
+
+#: admin/wa-admin-page.php:135 admin/wa-admin-page.php:184
+#: admin/wa-admin-page.php:271
+msgid "Custom Message"
+msgstr "Mensaje personalizado"
+
+#: admin/wa-admin-page.php:130 admin/wa-admin-page.php:199
+msgid "e.g. Order via WhatsApp"
+msgstr "ej. Pedir por WhatsApp"
+
+#: admin/wa-admin-page.php:127 admin/wa-admin-page.php:196
+msgid "Text on Button"
+msgstr "Texto del botón"
+
+#: admin/wa-admin-page.php:120
+msgid "Use shortcode to display WhatsApp button anywhere on your site."
+msgstr "Usa un shortcode para mostrar el botón de WhatsApp en cualquier parte de tu sitio."
+
+#: admin/wa-admin-page.php:118
+msgid "Generate Shortcode"
+msgstr "Generar el shortcode"
+
+#: admin/wa-admin-page.php:109
+msgid "Support"
+msgstr "Soporte"
+
+#: admin/wa-admin-page.php:108
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/wa-admin-page.php:107 admin/wa-admin-page.php:389
+msgid "GDPR Notice"
+msgstr "Aviso del RGPD"
+
+#: admin/wa-admin-page.php:106 admin/wa-admin-page.php:333
+msgid "Display Options"
+msgstr "Mostrar las opciones"
+
+#: admin/wa-admin-page.php:105 admin/wa-admin-page.php:240
+msgid "Floating Button"
+msgstr "Botón flotante"
+
+#: admin/wa-admin-page.php:104 admin/wa-admin-page.php:164
+msgid "Button Configurations"
+msgstr "Configuraciones del botón"
+
+#: admin/wa-admin-page.php:103
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: includes/whatsapp-button.php:217
+msgid "<div class=\"error\">%s</div>"
+msgstr "<div class=\"error\">%s</div>"
+
+#. Author URI of the plugin
+msgid "https://walterpinem.me/"
+msgstr "https://walterpinem.me/"
+
+#. Author of the plugin
+#: admin/wa-admin-page.php:464
+msgid "Walter Pinem"
+msgstr "Walter Pinem"
+
+#. Description of the plugin
+msgid "Make it easy for your customers to order via WhatsApp through a single button click with detailing information about a product including custom message. WhatsApp button can be displayed on a single product page and as a floating button. GDPR-ready!"
+msgstr "Facilita a tus clientes realizar pedidos a través de WhatsApp con un solo clic en el botón con información detallada sobre un producto, incluyendo un mensaje personalizado. El botón de WhatsApp puede mostrarse en la pagina individual del producto y como un botón flotante. ¡Preparado para el RGPD!"
+
+#. Plugin URI of the plugin
+msgid "https://www.seniberpikir.com/oneclick-whatsapp-order-woocommerce/"
+msgstr "https://www.seniberpikir.com/oneclick-whatsapp-order-woocommerce/"
+
+#. Plugin Name of the plugin
+#: admin/wa-admin-page.php:99
+msgid "OneClick WhatsApp Order"
+msgstr "OneClick WhatsApp Order"
